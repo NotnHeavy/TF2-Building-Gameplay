@@ -1,4 +1,4 @@
 .vscode/
 dev/
 plugins/
-scripting/include/
+scripting/include/tf2attributes.inc

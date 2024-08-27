@@ -15,4 +15,4 @@ Here you can spawn as different buildings rather than the traditional TF2 classe
 Just download the provided `.zip` and extract its folders to the `sourcemod` directory.
 
 # Dependencies
-This plugin requires SourceMod 1.11.
+This plugin requires SourceMod 1.11 and [Scag's SM-Memory](https://github.com/Scags/SM-Memory).
