@@ -11,6 +11,17 @@ Here you can spawn as different buildings rather than the traditional TF2 classe
 - Mini Sentry - 100hp, 400hu/s (+attack3 - toggle Wrangler mode)
 - Spy Sentry - 125hp, 200hu/s (+attack3 - undisguise (or disguise back) to target players)
 
+# Supported maps
+Due to custom spawn points, this plugin only supports the following maps (unless you modify the source code to add your own custom points):
+- `tr_walkway_fix`
+- `tr_walkway_rc2`
+- `plr_hightower`
+- `koth_megaton`
+- `koth_harvest_final`
+- `koth_viaduct`
+- `ctf_2fort_invasion`
+- `pl_upward`
+
 # How to use
 Just download the provided `.zip` and extract its folders to the `sourcemod` directory.
 
